@@ -27,6 +27,10 @@ The pack contains:
 - Worksheets
     - PDF worksheets of activities ideal at Jams
 
+## Issues
+
+If you have any problems using the assets provided, please [open an issue](https://github.com/RaspberryPiFoundation/raspberry-jam-branding/issues) describing your problem, and we'll try to resolve the issue. Alternatively, please send an email to jam@raspberrypi.org.
+
 ## Licence and usage
 
 These assets are provided under a [Creative Commons Zero licence](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -4,6 +4,8 @@ This is the Raspberry Jam branding pack, provided by the [Raspberry Pi Foundatio
 
 Branding assets are provided in multiple formats, allowing use with Photoshop, GIMP, MS Word and more.
 
+![Raspberry Jam](raspberry-jam.png)
+
 ## Contents
 
 The pack contains:

@@ -10,6 +10,8 @@ Branding assets are provided in multiple formats, allowing use with Photoshop, G
 
 The pack contains:
 
+- Eventbrite banners
+    - Large images designed to fit the Eventbrite banner space (plain and templates)
 - Fonts
     - The font files required for adding text to templates
 - Graphics
@@ -41,4 +43,4 @@ Please follow the [branding guidelines](Raspberry-Jam-Brand-Guidelines.pdf) when
 
 ## Last updated
 
-Last updated 2017-05-18
+Last updated 2017-07-19

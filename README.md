@@ -6,6 +6,10 @@ Branding assets are provided in multiple formats, allowing use with Photoshop, G
 
 ![Raspberry Jam](raspberry-jam.png)
 
+## Download
+
+[Download the zip](http://rpf.io/jambrand)
+
 ## Contents
 
 The pack contains:

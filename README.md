@@ -47,4 +47,4 @@ Please follow the [branding guidelines](Raspberry-Jam-Brand-Guidelines.pdf) when
 
 ## Last updated
 
-Last updated 2017-07-19
+Last updated 2018-02-13

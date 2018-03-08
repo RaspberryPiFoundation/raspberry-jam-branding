@@ -32,6 +32,8 @@ The pack contains:
     - The Raspberry Jam logo graphic, with an editable location
 - Poster templates
     - Templates for event posters/flyers
+- Raspbian desktop backgrounds
+    - Background images for the Raspbian desktop
 - Worksheets
     - PDF worksheets of activities ideal at Jams
 
@@ -47,4 +49,4 @@ Please follow the [branding guidelines](Raspberry-Jam-Brand-Guidelines.pdf) when
 
 ## Last updated
 
-Last updated 2018-02-13
+Last updated 2018-03-08

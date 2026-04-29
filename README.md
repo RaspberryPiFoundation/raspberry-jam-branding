@@ -1,5 +1,13 @@
 # Raspberry Jam branding pack
 
+**THIS REPOSITORY HAS BEEN ARCHIVED AND IS NOW READ-ONLY**
+
+This project is no longer actively maintained. No new issues or pull requests will be accepted here.
+
+The project was archived on 2026-04-29 as Raspberry Jams have moved home to https://events.raspberrypi.com/.
+
+---
+
 This is the Raspberry Jam branding pack, provided by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) for people running [Raspberry Jams](https://www.raspberrypi.org/jam/) to use to promote their events.
 
 Branding assets are provided in multiple formats, allowing use with Photoshop, GIMP, MS Word and more.
